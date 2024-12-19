@@ -1,4 +1,5 @@
 Job-Hunt-Tracker System
+
 A simple web-based application designed to help job seekers track and manage their job applications. This system allows users to add, view, and update job applications, keeping all necessary information organized in one place.
 
 Features:
